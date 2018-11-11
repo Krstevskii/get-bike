@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4959ce85-070d-4ec7-8760-3bcfa41fec95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/en/get-team.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/en/get-team.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/en/home.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/en/home.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/en/idea.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/en/idea.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/en/news.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/en/news.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/mkd/contact-us.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/mkd/contact-us.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/mkd/get-team.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/mkd/get-team.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/mkd/idea.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/mkd/idea.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/mkd/news.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/mkd/news.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="4959ce85-070d-4ec7-8760-3bcfa41fec95" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -105,13 +95,41 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1315979067">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="hbs" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Handlebars/Mustache" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="hbs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Handlebars/Mustache" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/mkdVersion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
+            <state relative-caret-position="1976">
               <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
             </state>
           </provider>
@@ -120,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/en/home.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="884">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -129,7 +147,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/en/idea.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
+            <state relative-caret-position="1300">
               <caret line="50" column="307" selection-start-line="50" selection-start-column="307" selection-end-line="50" selection-end-column="307" />
             </state>
           </provider>
@@ -138,20 +156,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/en/get-team.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="130">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/mkd/get-team.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/en/news.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
               <caret line="41" column="114" selection-start-line="41" selection-start-column="114" selection-end-line="41" selection-end-column="114" />
-              <folding>
-                <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -204,13 +228,13 @@
         <option value="$PROJECT_DIR$/routes/enVersion.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/mkd/idea.hbs" />
-        <option value="$PROJECT_DIR$/views/mkd/get-team.hbs" />
         <option value="$PROJECT_DIR$/views/mkd/news.hbs" />
         <option value="$PROJECT_DIR$/views/mkd/contact-us.hbs" />
         <option value="$PROJECT_DIR$/views/en/home.hbs" />
         <option value="$PROJECT_DIR$/views/en/idea.hbs" />
-        <option value="$PROJECT_DIR$/views/en/get-team.hbs" />
         <option value="$PROJECT_DIR$/views/en/news.hbs" />
+        <option value="$PROJECT_DIR$/views/en/get-team.hbs" />
+        <option value="$PROJECT_DIR$/views/mkd/get-team.hbs" />
       </list>
     </option>
   </component>
@@ -245,23 +269,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="get-bike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="get-bike" type="462c0819:PsiDirectoryNode" />
+              <item name="get-bike-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="get-bike-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="get-bike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="get-bike" type="462c0819:PsiDirectoryNode" />
+              <item name="get-bike-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="get-bike-master" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="get-bike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="get-bike" type="462c0819:PsiDirectoryNode" />
+              <item name="get-bike-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="get-bike-master" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="en" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="get-bike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="get-bike" type="462c0819:PsiDirectoryNode" />
+              <item name="get-bike-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="get-bike-master" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="mkd" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -321,26 +345,26 @@
       <workItem from="1541693574649" duration="1302000" />
       <workItem from="1541860354979" duration="243000" />
       <workItem from="1541861497261" duration="1976000" />
+      <workItem from="1541966310294" duration="247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27738000" />
+    <option name="totallyTimeSpent" value="27985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.284153" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2838428" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3145946" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3134172" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3298731" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -486,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/mkd/get-team.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/mkd/contact-us.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -514,34 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/mkdVersion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/en/home.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/en/idea.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="50" column="307" selection-start-line="50" selection-start-column="307" selection-end-line="50" selection-end-column="307" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/en/get-team.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/mkd/news.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
@@ -549,13 +538,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/mkdVersion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/en/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/en/idea.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="50" column="307" selection-start-line="50" selection-start-column="307" selection-end-line="50" selection-end-column="307" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/en/news.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="41" column="114" selection-start-line="41" selection-start-column="114" selection-end-line="41" selection-end-column="114" />
-          <folding>
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/en/get-team.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/mkd/get-team.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
         </state>
       </provider>
     </entry>
