@@ -98,6 +98,7 @@
     <session id="1315979067">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -165,7 +166,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/mkd/get-team.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="182">
               <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
             </state>
           </provider>
@@ -345,12 +346,12 @@
       <workItem from="1541693574649" duration="1302000" />
       <workItem from="1541860354979" duration="243000" />
       <workItem from="1541861497261" duration="1976000" />
-      <workItem from="1541966310294" duration="247000" />
+      <workItem from="1541966310294" duration="437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27985000" />
+    <option name="totallyTimeSpent" value="28175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -575,7 +576,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/mkd/get-team.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="182">
           <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
         </state>
       </provider>
