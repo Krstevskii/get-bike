@@ -1,0 +1,27 @@
+#gteamMain {
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+#gteamMain .h2{
+    margin-left: 12%;
+    margin-bottom: 0px;
+    border-bottom: solid;
+    border-color: #00bf77;
+}
+
+#gteamMain .card-deck{
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#gteamMain .card-deck .card{
+    margin-right: 0px;
+    transition-duration: 1s;
+}
+
+#gteamMain .card-deck .card:hover{
+    box-shadow: 0px 0px 10px #8a8a8a;
+    transition-duration: 1s;
+}

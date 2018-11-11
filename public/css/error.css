@@ -1,0 +1,16 @@
+#errorMain {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#errorMain h1{
+    margin: 0 auto;
+    display: table;
+    text-align: center;
+}
+
+#errorMain img{
+    margin: 0 auto;
+    margin-top: 2%;
+    display: table;
+}

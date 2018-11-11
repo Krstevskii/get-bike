@@ -1,0 +1,18 @@
+#header{
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    /*moze i mesto rgba da bide grey zabeleska*/
+}
+
+#header .navbar #navbarNav .language li .nav-link{
+    padding: 0rem !important;
+}
+
+#header .navbar .language li .active{
+
+    color: #00bf77 !important;
+
+}
+
+.active > .nav-link {
+    color: #00bf77 !important;
+}

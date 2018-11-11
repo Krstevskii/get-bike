@@ -1,0 +1,11 @@
+#videosMain{
+    margin-left: 12%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+#videosMain .h2{
+    margin-bottom: 0px;
+    border-bottom: solid;
+    border-color: #00bf77;
+}

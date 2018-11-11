@@ -1,0 +1,32 @@
+#contactMain{
+    margin-left: 12%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+
+#contactMain .h2{
+    margin-bottom: 0px;
+    border-bottom: solid;
+    border-color: #00bf77;
+}
+
+/*#contactMain form .col-md-7{*/
+    /*padding-left: 0px;*/
+/*}*/
+
+#contactMain form{
+    margin-top: 2%;
+}
+
+#contactMain form .form-row{
+    margin-right: 0px;
+}
+
+#contactMain form .form-row .form-group textarea{
+    resize: none;
+}
+
+#contactMain .h6{
+    margin-top: 4%;
+    margin-bottom: 0px;
+}
